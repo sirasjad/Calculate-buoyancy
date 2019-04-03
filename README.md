@@ -1,2 +1,2 @@
 # Plactor
-Autonomous boat controller
+Work in progress!
